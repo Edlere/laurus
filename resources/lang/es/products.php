@@ -1,0 +1,40 @@
+<?php
+return array(
+    'title'      => 'Gestión de Medicamentos',
+    'newproduct' => 'Añadir Nuevo Medicamentos',
+    'newproductstock' => 'Añadir Stock a Medicamentos',
+    'selectcat'  => 'Seleccionar categoría ',
+    'search'     => 'Búsqueda por nombre o identificación de productos',
+    'gname'      => 'Nombre Genérico',
+    'category'   => 'Categoría',
+    'seffect'    => 'Efecto secundario',
+    'price'      => 'Precio',
+    'quantity'   => 'Cantidad',
+    'expire'     => 'Expirar',
+    'control'    => 'Controlar',
+    'inventory'  => 'Inventario',
+    /*
+       Show - Create - Edit
+    */
+    'newtitle'   => 'Añadir Nuevo Medicamento',
+    'edittitle'  => 'Editar a ',
+    'bname'      => 'Nombre Comercial',
+    'idp'        => 'Número de medicamentos',
+    'country'    => 'País',
+    'desc'       => 'Descripción',
+    'exdate'     => 'Fecha de caducidad',
+    'imdate'     => 'Fecha de Ingreso',
+    'provName'   => 'Nombre del Proveedor',
+    'salePrice'  => 'Precio de Venta al Cliente',
+    'orgPrice'   => 'Precio de Compra',
+    'discount'   => 'Descuento',
+    'dtype'      => 'Icono del Medicamento',
+    'pill'       => 'Píldoras',
+    'syrup'      => 'Jarabe',
+    'syringe'    => 'Jeringa',
+    'barcode'    => 'Código de barras',
+    'img'        =>  'Subida de imagen',
+    'clear'      =>  'claro',
+    'browser'    =>  'Navegador',
+
+);
