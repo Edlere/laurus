@@ -1,0 +1,5 @@
+usuario:laurus@ph.net
+contraseña:laurus
+
+cambiar de previlegios el usurio para poder ver el menú completo cambiar de roles al usurio,de ser necesario
+para visualisar el menú de forma completa.
